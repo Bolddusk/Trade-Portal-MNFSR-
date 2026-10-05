@@ -43,7 +43,7 @@ export default function HomePage() {
             <GovtLogo size={48} />
             <div>
               <h1 className="text-lg font-bold text-gray-900 leading-tight">National Export Portal</h1>
-              <p className="text-xs text-gray-500">Government of Pakistan | Registration, Certification & Complaint Management</p>
+              <p className="text-xs text-gray-500">Government of Pakistan | Ministry of National Food Security & Research | Registration, Certification & Complaint Management</p>
             </div>
           </div>
           <nav className="hidden md:flex items-center gap-6 text-sm">

@@ -81,7 +81,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
               </Link>
               <div className="min-w-0">
                 <p className="font-bold text-sm leading-tight">Export Portal</p>
-                <p className="text-xs text-gov-green-200">Government of Pakistan</p>
+                <p className="text-xs text-gov-green-200 leading-snug">Government of Pakistan | Ministry of National Food Security & Research</p>
               </div>
               <button
                 onClick={() => setSidebarOpen(false)}
